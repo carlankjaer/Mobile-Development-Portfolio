@@ -1,8 +1,6 @@
 ![1695217510717](https://github.com/carlankjaer/Mobile-Development-Portfolio/assets/32563457/d702f5c3-5fce-4792-abd9-0993f2b83f71)
 
-## Hello! I am a software developer, specializing in developing apps in both Flutter and Swift. 
-
-### Here are some examples of what I have been working on in my spare time:
+## Hello! I am a software developer, specializing in app development in Flutter and Swift.<br/> Here are some examples of what I have been working on in my spare time:
 
 # PsoCare
 
