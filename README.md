@@ -17,3 +17,7 @@ This app was designed and developed for my Master's Thesis in collaboration with
   * :floppy_disk: Hive database
   * :chart_with_downwards_trend: Firebase Crashlytics
   * :art: Figma
+
+# Palia Guide
+
+Stay tuned
